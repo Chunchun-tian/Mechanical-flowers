@@ -1,5 +1,7 @@
 # Mechanical-flowers
 
+![20211027_185438](https://user-images.githubusercontent.com/56999025/141107367-1cc9b6d3-248e-4211-b30a-65abe1a812bf.jpg)
+
 一朵由Seeeduino XIAO和舵机控制的可以盛开的机械郁金香，创意来自于Jiří Praus（https://www.instructables.com/Ever-Blooming-Mechanical-Tulip/）
 
 3D打印文件来自于Jiří Praus你可以去他的patreon支持他（https://www.patreon.com/m/2895253/posts）
