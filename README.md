@@ -4,6 +4,8 @@
 
 一朵由Seeeduino XIAO和舵机控制的可以盛开的机械郁金香，创意来自于Jiří Praus（https://www.instructables.com/Ever-Blooming-Mechanical-Tulip/）
 
+展示视频：https://www.bilibili.com/video/BV1Aq4y137fh/
+
 3D打印文件来自于Jiří Praus你可以去他的patreon支持他（https://www.patreon.com/m/2895253/posts）
 
 ## 硬件
